@@ -1,4 +1,4 @@
-## Form Validator (Intro Project)
+## Form Validator part of 20 Vanilla JS projects course by Brad Travesty
 
 Simple client side form validation. Check required, length, email and password match
 
@@ -10,3 +10,4 @@ Simple client side form validation. Check required, length, email and password m
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
+Link address: https://furbo1.github.io/Sign-Up-Form-Validator-Javascript/
