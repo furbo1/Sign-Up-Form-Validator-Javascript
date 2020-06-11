@@ -1,4 +1,4 @@
-## Form Validator part of 20 Vanilla JS projects course by Brad Travesty
+## Form Validator 
 
 Simple client side form validation. Check required, length, email and password match
 
